@@ -13,7 +13,7 @@ A comprehensive productivity application that combines a Pomodoro timer with tas
 
 ### Option 1: Using the Executable (Recommended for Windows users)
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/pomodoro-productivity-suite/releases) page
+1. Download the latest release from the [Releases](https://github.com/shrikant-nomith/pomodoro-productivity-suite/releases) page
 2. Run the executable file
 
 ### Option 2: From Source
@@ -21,7 +21,7 @@ A comprehensive productivity application that combines a Pomodoro timer with tas
 1. Make sure you have Python 3.7 or higher installed
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pomodoro-productivity-suite.git
+   git clone https://github.com/shrikant-nomith/pomodoro-productivity-suite.git
    cd pomodoro-productivity-suite
    ```
 3. Install the required dependencies:
